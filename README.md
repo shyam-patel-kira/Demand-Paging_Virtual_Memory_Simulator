@@ -7,3 +7,5 @@ Frame.java is a helper class that creates and defines objects used to represent 
 Memory.java defines the logic for the four paging algorithms used (FIFO, OPT, LFU, LRU) and simulates the virtual memory system. Methods for generating the memory system, calling the paging algorithms, printing the state of the physical memory after each string call, and constructor methods are included.
 
 RefString.java creates and defines the reference string that is used in the simulator. Constructor, getter, and setter methods are included.
+
+To compile it on your device clone the repo and delete all the class files and *compile* it using javac *.java
