@@ -8,4 +8,4 @@ Memory.java defines the logic for the four paging algorithms used (FIFO, OPT, LF
 
 RefString.java creates and defines the reference string that is used in the simulator. Constructor, getter, and setter methods are included.
 
-To compile it on your device clone the repo and delete all the class files and *compile* it using *javac *.java**
+To compile it on your device clone the repo and delete all the class files and *compile* it using javac _*_.java
