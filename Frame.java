@@ -3,7 +3,6 @@
  * for paging algorithms
  */
 
-
 public class Frame {
     int number;
     int inserted;

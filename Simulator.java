@@ -19,7 +19,6 @@ public class Simulator {
         int numOfPhysicalFrames = sc.nextInt();
         System.out.println("Number of page frames set to " + numOfPhysicalFrames + ".");
 
-
         Scanner in = new Scanner(System.in);
         String line;
         RefString rs = null;
